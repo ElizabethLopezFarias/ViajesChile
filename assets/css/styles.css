@@ -78,3 +78,13 @@ h2 {
 .custom-card h4, p{
     padding: 3%;
 }
+
+/* FORMULARIO */
+
+.contacto { 
+    background-color: black;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 3%;
+    padding-bottom: 5%;
+}
